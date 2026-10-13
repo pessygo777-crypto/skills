@@ -26,6 +26,18 @@ No em-dashes anywhere in this repo's prose (`SKILL.md` files, docs, `README.md`,
 
 ## Agent skills
 
+### Issue tracker
+
+Issues and specs live in GitHub Issues for pessygo777-crypto/skills.
+See `docs/agents/issue-tracker.md`.
+
 ### Triage labels
 
-Canonical names, unchanged. See `docs/agents/triage-labels.md`. Issues are judged against [`SCOPE.md`](./SCOPE.md).
+Use the five canonical triage labels.
+See `docs/agents/triage-labels.md`.
+Judge issues against `SCOPE.md`.
+
+### Domain docs
+
+Single-context layout: root `GLOSSARY.md` and existing `.agents/adr/`.
+See `docs/agents/domain.md`.
